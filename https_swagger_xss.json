@@ -1,0 +1,9 @@
+{
+    "url": "https://solarpeng502.github.io/swagger_xss.yaml",
+    "urls": [
+        {
+            "url": "https://solarpeng502.github.io/swagger_xss.yaml",
+            "name": "Foo"
+        }
+    ]
+}
